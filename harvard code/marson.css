@@ -1,0 +1,48 @@
+.bar{
+background-color: black;
+font-family: 'Oswald', sans-serif;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content: space-around;
+    font-family: 'Maven Pro', sans-serif;
+
+}
+.navdiv li a{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+
+}
+.navdiv li a:hover{
+    color: #696969;
+}
+.logo{
+    color: white;
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+    cursor: wait;
+}
+body{
+    background: url(nowmi\ image\ 2.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+   
+}
+.bit img{
+    width: 400px;
+    height: 400px;
+    margin: 400px;
+}
+.bit img:hover{
+    transition: all 8ms;
+    transform: scale(1.1);
+}
+

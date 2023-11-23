@@ -1,0 +1,20 @@
+body {  
+  background-size: cover;
+  background-position: "center";
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: url(laptop\ image.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.navbar {
+  opacity: 0.9;
+}
+.text{
+  color: aliceblue;
+  text-align: center;
+  text-transform: capitalize;
+  margin-top:-5px;
+}

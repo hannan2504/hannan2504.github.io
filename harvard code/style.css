@@ -1,0 +1,44 @@
+/* selector{
+  property:value:
+} */
+ h1>p {
+  color: #0A4DF4;
+  cursor: no-drop;
+  text-align: center;
+}
+
+body {
+  background-image: url(pablo.webp);
+  background-size: cover;
+}
+
+li {
+  list-style: none;
+  cursor: cell;
+  display: inline-block;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+h1 {
+  color: darkkhaki;
+}
+
+p {
+  text-align: right;
+}
+.center-text {
+  text-align: center;
+} 
+h6 > h7{
+ text-align: center;
+ color: blue;
+ background-color: black;
+}
